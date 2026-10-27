@@ -1,5 +1,7 @@
 # mikrotik_backup
 Mikrotik to Git backup
+This is a fork from https://static.xtremeownage.com/blog/2025/mikrotik-backup-script/
+Credits to XtremeOwnage
 
 
 Mikrotik - Backup Script (To Git)
